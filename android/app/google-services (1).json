@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "981974910530",
+    "project_id": "reduxwithfirebase-c5757",
+    "storage_bucket": "reduxwithfirebase-c5757.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981974910530:android:0fef23b92bc40a999d0fdb",
+        "android_client_info": {
+          "package_name": "com.firebasewithredux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGQKg2GI6-JriLL0ibALg6DZRVNgwcvUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
